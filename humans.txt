@@ -5,9 +5,18 @@
 
     <name> -- <role> -- <twitter>
 
+
+Alex Klinger, Designer & Developer, @alexklinger
+
 # THANKS
 
     <name>
+
+Amanda Roper for inspiration and documentation through her photography. 
+Cindy Vo for Bio background picture and Quantified Self project photos. 
+Emily Daub and Sabina Hayutin for fashion design on Wearable Projects. 
+Mikael Skirpan, Jacqueline Cameron, and William Lewis and everyone else for making Quantified Self happen.
+
 
 # TECHNOLOGY COLOPHON
 

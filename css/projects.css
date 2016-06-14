@@ -134,12 +134,12 @@ textarea {
 
 @font-face {
     font-family: 'AkzidenzGrotesk-Bold';
-    src: url('../Akzidenz-grotesk-light-bold.ttf');
+    src: url('../assets/Akzidenz-grotesk-light-bold.ttf');
 }
 
 @font-face {
     font-family: 'Akzidenz-Grotesk BQ';
-    src: url('../akzidenzgrotesk-bq-regular.otf');
+    src: url('../assets/akzidenzgrotesk-bq-regular.otf');
 }
 
 

@@ -752,6 +752,8 @@ margin-top: .5em;
     font-family: 'Akzidenz-Grotesk BQ' , 'Helvetica Neue', 'Helvetica', sans-serif;
     font-size: 1em;
     font-weight: 100;
+        z-index: -1;
+
 
 }
 

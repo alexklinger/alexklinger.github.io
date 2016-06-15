@@ -453,6 +453,21 @@ footer{
 
     }
 
+    .category-title{
+
+   position: relative;
+    font-size: 4.5em;
+    font-family: 'AkzidenzGrotesk-Bold', 'Helvetica Neue', 'Helvetica', sans-serif; 
+    margin-top: 1%;
+    color: rgba(207, 195, 226, 0.6);
+    margin-right: 20%;
+    margin-left: 20%;
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+
+}
+
 .aklogo{
         background: url(../img/aklogo.png) no-repeat;
         height: 60px;
@@ -498,8 +513,8 @@ footer{
     font-family: 'AkzidenzGrotesk-Bold', 'Helvetica Neue', 'Helvetica', sans-serif; 
     margin-top: 1%;
     color: rgba(207, 195, 226, 0.6);
-    margin-right: 10%;
-    margin-left: 10%;
+    margin-right: 30%;
+    margin-left: 35%;
     text-align: center;
 
 }
@@ -508,8 +523,8 @@ footer{
     font-size: 1.3em;
     font-family: 'Akzidenz-Grotesk BQ', sans-serif; 
     color: rgba(207, 195, 226, 0.6);
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 35%;
+    margin-right: 15%;
 }   
 
 .project-description a{
@@ -687,6 +702,22 @@ footer{
 
     }
 
+
+.category-title{
+
+   position: relative;
+    font-size: 2em;
+    font-family: 'AkzidenzGrotesk-Bold', 'Helvetica Neue', 'Helvetica', sans-serif; 
+    margin-top: 1%;
+    color: rgba(207, 195, 226, 0.6);
+    margin-right: 10%;
+    margin-left: 10%;
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+
+}
+
 .aklogo{
         background: url(../img/aklogo.png) no-repeat;
         height: 50px;
@@ -733,8 +764,8 @@ footer{
     font-family: 'AkzidenzGrotesk-Bold', 'Helvetica Neue', 'Helvetica', sans-serif; 
     margin-top: 1%;
     color: rgba(207, 195, 226, 0.6);
-    margin-right: 10%;
-    margin-left: 10%;
+    margin-right: 20%;
+    margin-left: 15%;
     text-align: center;
 
 }
@@ -743,8 +774,8 @@ footer{
     font-size: 1em;
     font-family: 'Akzidenz-Grotesk BQ', sans-serif; 
     color: rgba(207, 195, 226, 0.6);
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 30%;
+    margin-right: 20%;
 }   
 
 .project-description a{

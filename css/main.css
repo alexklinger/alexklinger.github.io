@@ -479,6 +479,7 @@ footer{
   }
 
     .topimage{
+        display: none;
         background-image: url("../img/back-to-top-button.png");
         height: 90px;
         width: 90px;
@@ -514,11 +515,13 @@ footer{
     }
 
  .soundz{
+    display: none;
     margin-top: 16em;
     margin-left: 1.3em;
     margin-right: auto;
 
      position: relative;
+
 
  }
 
